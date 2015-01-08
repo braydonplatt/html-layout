@@ -1,0 +1,39 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	background: #d8d8d8;
+}
+
+.blueLeft {
+	width: 33%;
+	height: 100%;
+	background: #4a90e2;
+	float: left;
+	
+}
+
+.lightCenter{
+	width: 33%;
+	height: 100%;
+	background: #50e3c2;
+	float: left;
+	
+}
+
+.greenRight{
+	width: 33%;
+	height: 100%;
+	background: #b8e986;
+	float: left;
+	
+}
+.bottomClear{
+	width: 100%;
+	height: 70%;
+	
+}
+.image{
+	width: 100%;
+	height: 30%;
+	background-image: url(http://themarketingguy.net/wp-content/uploads/2014/07/who-is-Arnold-Schwarzenegger.jpg);
+}
